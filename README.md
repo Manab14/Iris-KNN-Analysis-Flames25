@@ -1,4 +1,4 @@
-🌸 Iris-Data-Analysis-Summer-Training-Flames-25
+#🌸 Iris-Data-Analysis-Summer-Training-Flames-25
 🌼 Iris Dataset Analysis & KNN Classification
 This project was developed as part of my Summer Training Program under the guidance of Ms. Gaurika Dhingra on the Flames'25 platform, as a proud member of the Angaar Batch. The main objective is to explore the classic Iris dataset, perform data cleaning, visualization, feature engineering, and build a K-Nearest Neighbors (KNN) classification model.
 
